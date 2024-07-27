@@ -8,4 +8,4 @@ Take a hit once and you lose!
 <br/>
 This project is made in order for me to learn how to make a game using GameMaker.
 <br/>
-I used their project template and and followed their tutorial.
+I used their project template and followed their tutorial.
