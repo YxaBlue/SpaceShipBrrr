@@ -1,7 +1,7 @@
 # SpaceShipBrrr
 This is a pretty simple game where the player maneuvers the ship to avoid the rocks.
 <br/>
-Shoot them rocks and aim to score.
+Aim them rocks and shoot to score!
 <br/>
 Take a hit once and you lose!
 <br/>
