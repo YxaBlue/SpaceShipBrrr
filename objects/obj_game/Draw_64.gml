@@ -1,1 +1,1 @@
-draw_text_transformed(15, 10, points, 3, 3, 0);
+draw_text_transformed(13, 13, points, 1, 1, 0);
